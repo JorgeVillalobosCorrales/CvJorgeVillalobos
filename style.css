@@ -1,0 +1,48 @@
+*{
+
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 0px;
+}
+
+.line{
+    height: 3px;
+    background-color: aquamarine;
+    border: none;
+}
+
+.photoPersonal{
+    border-radius: 200px;
+    height: 300px;
+    width: 300px;
+}
+
+.PersonalInformation{
+    margin-left: 625px;
+}
+
+.container-Information, .container-language,
+.container-skills, .container-experience,
+.container-stack, .container-Education{
+    background-color: beige;
+}
+
+
+.font{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 25px;
+}
+
+.icon{
+    width: 20px;
+    height: 20px;
+}
+
+.footer {
+    background-color: beige;
+}
+
+.text-footer{
+    color: black;
+    
+}
